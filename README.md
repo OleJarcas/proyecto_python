@@ -1,7 +1,10 @@
 # Programa de automatización de pedidos
 Este es un proyecto grupal que hicimos en el curso de Programación en Python, mi primer acercamiento a este lenguaje.
-El objetivo es crear un sistema que automatice los pedidos y los cobros, para que se pueda dar bien el vuelto. Facilitándole el trabajo a quién está a cargo en ese momento.
-Devuelve una planilla Excel con los datos de la compra confirmada y un archivo txt con los datos de quién está a cargo de la caja
+
+El objetivo es crear un sistema que automatice los pedidos y los cobros, para que se pueda dar bien el vuelto.
+
+Devuelve una planilla Excel con los datos de la compra confirmada y un archivo txt con los datos de quién está a cargo de la caja.
+
 Las opciones con  que cuenta la casa de comida rápida son las siguientes:  
 
 ![opciones](https://user-images.githubusercontent.com/89486824/165389583-5adacaee-9b68-48cc-8184-d98ebdf6b89b.png)
